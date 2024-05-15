@@ -119,7 +119,7 @@ urllib3==2.2.1
 wasabi==1.1.2
 wcwidth==0.2.13
 weasel==0.3.4
-Werkzeug==3.0.2
+Werkzeug==3.0.3
 widgetsnbextension==4.0.10
 xxhash==3.4.1
 yellowbrick==1.5
