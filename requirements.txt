@@ -109,7 +109,7 @@ thinc==8.2.3
 threadpoolctl==3.4.0
 torch==2.2.2
 torchvision==0.17.2
-tqdm==4.66.2
+tqdm==4.66.3
 traitlets==5.14.2
 tsdownsample==0.1.3
 typer==0.9.4
